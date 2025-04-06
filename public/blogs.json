@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Mastering JavaScript in 30 Days",
+        "description": "A complete guide to learning JavaScript from scratch with daily challenges and real-world projects.",
+        "coverImage": "https://i.ytimg.com/vi/58a_9-ZMJek/maxresdefault.jpg",
+        "authorImage": "https://media.istockphoto.com/id/1478316046/photo/portrait-of-high-school-teacher-at-school-library.jpg?s=612x612&w=0&k=20&c=sSU4PQgVZXW6jiddn8YcB3s2F_Vge5RekkWBlMiUKuU=",
+        "author": "John Doe",
+        "postDate": "2025-04-01",
+        "readingTime": 8,
+        "hashtags": ["#JavaScript", "#WebDevelopment", "#CodeChallenge"]
+    },
+    {
+        "id": 2,
+        "name": "The Ultimate Guide to Personal Finance",
+        "description": "Learn how to manage your money, build savings, and start investing like a pro.",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JSr5c9BRKIDPl4XMvgRy9YJm0CIgQ0yWkQ&s",
+        "authorImage": "https://media.istockphoto.com/id/2155300464/photo/man-examining-the-books-in-bookstore-shelves.jpg?s=612x612&w=0&k=20&c=bGwUzNXa_oYSj5tChAbOlnjdP0i71QtAHxBOZRysc30=",
+        "author": "Jane Smith",
+        "postDate": "2025-03-25",
+        "readingTime": 6,
+        "hashtags": ["#Finance", "#Investing", "#MoneyTips"]
+    },
+    {
+        "id": 3,
+        "name": "Top 10 Travel Destinations for 2025",
+        "description": "Explore the best travel spots for the upcoming year, from tropical beaches to snowy mountains.",
+        "coverImage": "https://media.istockphoto.com/id/1497396873/photo/ready-for-starting-my-beach-holiday.jpg?s=612x612&w=0&k=20&c=Rfb7IbYAZR1hNTF6KUDYq8CVu9Yr4wRgK2VLZIZyORY=",
+        "authorImage": "https://media.istockphoto.com/id/1478316046/photo/portrait-of-high-school-teacher-at-school-library.jpg?s=612x612&w=0&k=20&c=sSU4PQgVZXW6jiddn8YcB3s2F_Vge5RekkWBlMiUKuU=",
+        "author": "Mark Taylor",
+        "postDate": "2025-03-30",
+        "readingTime": 5,
+        "hashtags": ["#Travel", "#Adventure", "#Explore"]
+    },
+    {
+        "id": 4,
+        "name": "The Power of Morning Routines",
+        "description": "Discover how successful people structure their mornings for productivity and success.",
+        "coverImage": "https://c.ndtvimg.com/2025-03/qefvvhq_as_625x300_24_March_25.jpeg?downsize=545:307",
+        "authorImage": "https://media.istockphoto.com/id/2155300464/photo/man-examining-the-books-in-bookstore-shelves.jpg?s=612x612&w=0&k=20&c=bGwUzNXa_oYSj5tChAbOlnjdP0i71QtAHxBOZRysc30=",
+        "author": "Aston Mia",
+        "postDate": "2025-03-20",
+        "readingTime": 4,
+        "hashtags": ["#Habits", "#MorningRoutine", "#Productivity"]
+    },
+    {
+        "id": 5,
+        "name": "Healthy Eating on a Budget",
+        "description": "Smart tips and affordable meal ideas to eat healthy without breaking the bank.",
+        "coverImage": "https://media.istockphoto.com/id/1130921829/video/healthy-breakfast-of-oatmeal-and-other-food.jpg?s=640x640&k=20&c=dA1sx2yzrhBGHEfRi95eX1JsY75Jgs5BvpLl2L6-eQE=",
+        "authorImage": "https://avatars.githubusercontent.com/u/120111662?v=4",
+        "author": "Mushfique Raiyan",
+        "postDate": "2025-03-27",
+        "readingTime": 5,
+        "hashtags": ["#Health", "#BudgetEating", "#MealPrep"]
+    },
+    {
+        "id": 6,
+        "name": "Beginner's Guide to Digital Marketing",
+        "description": "Everything you need to know to start building your online presence and attracting customers.",
+        "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWvHhe6M04Zzcw2FDJQ17j1mTTP1PPHDh3A&s",
+        "authorImage": "https://media.istockphoto.com/id/2155300464/photo/man-examining-the-books-in-bookstore-shelves.jpg?s=612x612&w=0&k=20&c=bGwUzNXa_oYSj5tChAbOlnjdP0i71QtAHxBOZRysc30=",
+        "author": "Rachel Moore",
+        "postDate": "2025-04-03",
+        "readingTime": 7,
+        "hashtags": ["#DigitalMarketing", "#OnlineBusiness", "#MarketingTips"]
+    }
+]
