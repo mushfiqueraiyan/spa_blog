@@ -5,11 +5,19 @@ const Blogs = ({handleBookMark,markAsRead}) => {
 
     const [blogs, setBlogs] = useState([])
 
-    useEffect(()=>{
-        fetch("blogs.json")
-            .then(res=>res.json())
-                .then(data => setBlogs(data))
-    },[])
+    useEffect(() => {
+        const fetchBlogs = async () => {
+            try {
+                const res = await fetch("blogs.json");
+                const data = await res.json();
+                setBlogs(data);
+            } catch (error) {
+                console.error("Error fetching blogs:", error);
+            }
+        };
+    
+        fetchBlogs();
+    }, []);
 
   return (
     <div>

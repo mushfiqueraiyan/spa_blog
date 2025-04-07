@@ -38,7 +38,9 @@ const App = () => {
          <h1>Bookmarks: {bookMarked.length}</h1>
 
          {
-          bookMarked.map((booked,i)=> <div className='bg-blue-200 mt-2 p-3 rounded-xl' key={i}>{booked.name}</div>)
+          bookMarked.map((booked,i)=> <div className='bg-blue-200 mt-2 p-3 rounded-xl' key={i}>
+            <img src={booked.coverImage} className='w-full mb-2' alt="" />
+            {booked.name}</div>)
          }
       </div>
     </div>
